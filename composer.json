@@ -4,17 +4,5 @@
     "type": "component",
     "license": "MIT",
   
-    "authors": [
-        {
-            "name": "gftitat",
-            "email": "contact@gftita.com"
-        }
-    ],
-    "extra": {
-        "component": {
-            "scripts": [
-                "jquery.js"
-            ]
-        }
-    }
+  
 }
